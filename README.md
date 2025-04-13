@@ -1,5 +1,5 @@
 
-#  E-Learning System
+# React Ai Image Enhancer
 An **AI-powered image enhancer** built with **React**, **Tailwind CSS**, and **Vite**. The platform allows users to upload an image, and the AI enhances it within seconds. It features a modern, responsive design with the option to toggle between **dark mode** and **light mode**. The system provides a seamless user experience for image enhancement, making it easy to improve image quality.
 ## Features
 - **Image Enhancement**: Upload an image and enhance it instantly using the **PicWish API**.
